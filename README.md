@@ -1,2 +1,3 @@
-# PPN-ARE
-Code and dataset are on the way！
+# PPN-ARE IS ON THE WAY！
+
+Code and dataset will be uploaded after the paper is accepted.
