@@ -1,6 +1,6 @@
 <div align="center">
-  <h2><b> PPN-ARE: Representation-Enhanced Cascading Multi-Level Interest Learning 
-    for Multi-Behavior Recommendation </b></h2>
+  <h1><b> PPN-ARE: Representation-Enhanced Cascading Multi-Level Interest Learning   
+    for Multi-Behavior Recommendation </b></h1>
 </div>
 
 
