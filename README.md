@@ -42,7 +42,7 @@ You can see the [Documentation](https://github.com/rusty1s/pytorch_scatter) when
 
 Taking the Tmall dataset as an example, after executing the method of generating data files in *data_process.py*, you can run Tmall dataset with:
 
-`python3 main.py --data_name tmall`  
+`python main.py --data_name tmall`  
 
 #  Main Results
 We conducted a number of experiments to evaluate the performance of PPN-ARE, including overall performance comparisons with nine models, as well as targeted ablation experiments.  
