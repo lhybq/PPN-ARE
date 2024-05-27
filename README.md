@@ -3,7 +3,7 @@
     for Multi-Behavior Recommendation </b></h2>
 </div>
 #  Introduction
-🏆 **PPN-RAE**, as a parallel positive-negative interest extraction method that leverages cascading multi-behavioral views to learn the multi-level interests of users, is proposed to **achieve consistent SOTA performance in the corresponding multi-behavioral recommendation tasks**.
+🏆 **PPN-RAE**  , as a parallel positive-negative interest extraction method that leverages cascading multi-behavioral views to learn the multi-level interests of users, is proposed to **achieve consistent SOTA performance in the corresponding multi-behavioral recommendation tasks**.
 
 
 🌟**Observation 1: Neglected Massive Multi-level Negative Feedback**   
@@ -15,7 +15,7 @@ As shown in Figure (a) below, under the cascade structure, each auxiliary behavi
 </p>
 
 
-🌟**Observation 2: Problem Passing in Cascade Structures** 
+🌟**Observation 2: Problem Passing in Cascade Structures**   
 The learning effect of upstream behaviors greatly influences the learning of preferences for downstream target behaviors and ultimately shapes the overall recommendation effect, while the importance of target behaviors is not fully appreciated in the cascade structure.
 <p align="center">
 <img src="img/moti2.jpg"  alt="" align=center />
