@@ -1,6 +1,4 @@
 <div align="center">
-  <!-- <h1><b> Time-LLM </b></h1> -->
-  <!-- <h2><b> Time-LLM </b></h2> -->
   <h2><b> PPN-ARE: Representation-Enhanced Cascading Multi-Level Interest Learning for Multi-Behavior Recommendation </b></h2>
 </div>
 # Introduction
