@@ -1,9 +1,9 @@
 # PPN-ARE
 ###  Model Framework
-<img width="1642" alt="1" src="img/model.png">
+<img width="1642" alt="1" src="img/modelall.jpg">
   
 ###  Model Performance
-<img width="1642" alt="2" src="img/1.png">
+<img width="1642" alt="2" src="img/result.jpg">
 
 ### Environment
 numpy                     1.24.3  
