@@ -44,20 +44,19 @@ We conducted a number of experiments to evaluate the performance of PPN-ARE, inc
 ##  Ablation experiment  
 <p align="center">
 <img src="img/abl.jpg"  alt="" align=center />
-</p>
+</p>  
 
 
-# PPN-ARE
-###  Model Framework
-<img width="1642" alt="1" src="img/modelall.jpg">
-  
-###  Model Performance
-<img width="1642" alt="2" src="img/result.jpg">
 
-### Environment
-numpy                     1.24.3  
-pandas                    2.0.3  
-python                    3.8.0   
-pytorch                   1.12.0  
-  
-#### Code and dataset will be uploaded after the paper is accepted.
+
+
+##  Acknowledgement 
+
+We appreciate the following GitHub repos a lot for their valuable code and efforts.  
+- CRGCN (https://github.com/MingshiYan/CRGCN)  
+- MB-CGCN (https://github.com/SS-00-SS/MBCGCN)  
+
+##  Contact  
+
+If you have any questions or want to use the code, feel free to contact:
+* Hu Liu (liuhucqu@gmail.com)
