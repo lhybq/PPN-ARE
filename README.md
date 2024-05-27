@@ -33,6 +33,10 @@ The architecture of the proposed PPN-ARE, mainly consists of four modules: (I) P
 <img src="img/modelall.jpg"  alt="" align=center />
 </p>
 
+#  Main Results
+We conducted a number of experiments to evaluate the performance of PPN-ARE, including overall performance comparisons with nine models, as well as targeted ablation experiments.
+**🏆 PPN-ARE achieves state-of-the-art performance**   and ablation experiments validate each component.
+
 # PPN-ARE
 ###  Model Framework
 <img width="1642" alt="1" src="img/modelall.jpg">
