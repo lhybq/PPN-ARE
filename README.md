@@ -37,8 +37,9 @@ The architecture of the proposed PPN-ARE, mainly consists of four modules: (I) P
 
 first please check that the environment contains the packages in requirements.txt.
 
-You can see the [Documentation](https://github.com/rusty1s/pytorch_scatter) when installing _**torch_scatter**_ and _**torch_sparse**_ 
+You can see the [Documentation](https://github.com/rusty1s/pytorch_scatter) when installing _**torch_scatter**_ and _**torch_sparse**_   
 
+Before running, you need to create the directories **log** and **check_point** in the root directory
 
 Taking the Tmall dataset as an example, after executing the method of generating data files in *data_process.py*, you can run Tmall dataset with:
 
