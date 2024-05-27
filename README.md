@@ -40,7 +40,7 @@ We conducted a number of experiments to evaluate the performance of PPN-ARE, inc
 <p align="center">
 <img src="img/result.jpg"  alt="" align=center />
 </p>
-##  Ablation experiment
+##  Ablation experiment  
 <p align="center">
 <img src="img/abl.jpg"  alt="" align=center />
 </p>
