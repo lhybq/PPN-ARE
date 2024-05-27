@@ -2,8 +2,8 @@
   <h2><b> PPN-ARE: Representation-Enhanced Cascading Multi-Level Interest Learning 
     for Multi-Behavior Recommendation </b></h2>
 </div>
-#  Introduction
-🏆 **PPN-RAE**  , as a parallel positive-negative interest extraction method that leverages cascading multi-behavioral views to learn the multi-level interests of users, is proposed to **achieve consistent SOTA performance in the corresponding multi-behavioral recommendation tasks**.
+#  Introduction  
+🏆 **PPN-RAE** , as a parallel positive-negative interest extraction method that leverages cascading multi-behavioral views to learn the multi-level interests of users, is proposed to **achieve consistent SOTA performance in the corresponding multi-behavioral recommendation tasks.**  
 
 
 🌟**Observation 1: Neglected Massive Multi-level Negative Feedback**   
