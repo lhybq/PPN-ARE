@@ -31,7 +31,18 @@ The architecture of the proposed PPN-ARE, mainly consists of four modules: (I) P
 
 <p align="center">
 <img src="img/modelall.jpg"  alt="" align=center />
-</p>
+</p>  
+
+#  Getting Started  
+
+first please check that the environment contains the packages in requirements.txt.
+
+You can see the [Documentation](https://github.com/rusty1s/pytorch_scatter) when installing _**torch_scatter**_ and _**torch_sparse**_ 
+
+
+Taking the Tmall dataset as an example, after executing the method of generating data files in *data_process.py*, you can run Tmall dataset with:
+
+`python3 main.py --data_name tmall`  
 
 #  Main Results
 We conducted a number of experiments to evaluate the performance of PPN-ARE, including overall performance comparisons with nine models, as well as targeted ablation experiments.  
