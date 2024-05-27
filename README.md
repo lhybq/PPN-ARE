@@ -39,7 +39,8 @@ We conducted a number of experiments to evaluate the performance of PPN-ARE, inc
 ##  Overall experiment
 <p align="center">
 <img src="img/result.jpg"  alt="" align=center />
-</p>
+</p>  
+
 ##  Ablation experiment  
 <p align="center">
 <img src="img/abl.jpg"  alt="" align=center />
