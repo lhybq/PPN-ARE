@@ -46,7 +46,7 @@ if __name__ == '__main__':
     parser.add_argument('--node_dropout', type=float, default=0.75)
     parser.add_argument('--message_dropout', type=float, default=0.25)
 
-    parser.add_argument('--data_name', type=str, default='beibei', help='')
+    parser.add_argument('--data_name', type=str, default='Tmall', help='')
     parser.add_argument('--behaviors', help='', action='append')
     parser.add_argument('--if_load_model', type=bool, default=False, help='')
 
