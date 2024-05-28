@@ -73,10 +73,6 @@ if __name__ == '__main__':
         # args.reg_weight = 0.001
         args.layers = [1 ,1, 1, 1, 1, 1]
         args.model_name = 'Tmall'
-    elif args.data_name == 'tmall_cold':
-        args.data_path = 'data/Tmall_cold_all'
-        args.behaviors = ['click', 'cart', 'collect', 'buy']
-        args.model_name = 'Tmall_cold_all'
     elif args.data_name == 'beibei':
         args.data_path = './data/beibei'
         args.behaviors = ['view', 'cart', 'buy']
