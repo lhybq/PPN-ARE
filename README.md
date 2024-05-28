@@ -7,7 +7,7 @@
 #  Introduction  
 
 🏆 **PPN-RAE** , as a parallel positive-negative interest extraction method that leverages cascading multi-behavioral views to learn the multi-level interests of users, is proposed to **achieve consistent SOTA performance in the corresponding multi-behavioral recommendation tasks.**  
-**The manuscript has been submitted to TOIS.**
+__**The manuscript has been submitted to TOIS.**__  
 
 🌟**Observation 1: Neglected Massive Multi-level Negative Feedback**   
 As shown in Figure (a) below, under the cascade structure, each auxiliary behavior in the Tmall and Bebe datasets corresponds to a positive feedback signal feature. In addition, we quantify the feedback signal characteristics of each cascade, as shown in Figs. (b)(c) below, on average, negative feedback accounts for nearly 40% of the total amount of feedback signals in each cascade and far exceeds the number of target interactions.
