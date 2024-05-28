@@ -15,7 +15,7 @@ from model_cascade import CRGCN
 
 from trainer import Trainer
 
-SEED = 2021
+SEED = 2023
 random.seed(SEED)
 np.random.seed(SEED)
 torch.manual_seed(SEED)
