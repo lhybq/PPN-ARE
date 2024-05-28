@@ -64,8 +64,8 @@ We conducted a number of experiments to evaluate the performance of PPN-ARE, inc
 ##  Acknowledgement 
 
 We appreciate the following GitHub repos a lot for their valuable code and efforts.  
-- CRGCN (https://github.com/MingshiYan/CRGCN)  
-- MB-CGCN (https://github.com/SS-00-SS/MBCGCN)  
+- [CRGCN](https://github.com/MingshiYan/CRGCN)  
+- [MB-CGCN](https://github.com/SS-00-SS/MBCGCN)  
 
 ##  Contact  
 
