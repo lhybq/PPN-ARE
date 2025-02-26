@@ -51,7 +51,7 @@ We conducted a number of experiments to evaluate the performance of PPN-ARE, inc
 **🏆 PPN-ARE achieves state-of-the-art performance**   and ablation experiments validate each component.  
 ##  Overall experiment
 <p align="center">
-<img src="img/result.jpg"  alt="" align=center />
+<img src="img/result_revision.png"  alt="" align=center />
 </p>  
 
 ##  Ablation experiment  
