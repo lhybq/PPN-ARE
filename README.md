@@ -50,7 +50,7 @@ Taking the Tmall dataset as an example, after executing the method of generating
 We conducted a number of experiments to evaluate the performance of PPN-ARE, including overall performance comparisons with nine models, as well as targeted ablation experiments.  
 **🏆 PPN-ARE achieves state-of-the-art performance**   and ablation experiments validate each component.  
 ##  Overall experiment
-<span style="color:red">**Update notes:**</span>
+🌟**Update notes:**
  Improved the summary table, added two latest baseline models, and updated the model's best performance after hyperparameter experiments.
 <p align="center">
 <img src="img/result_revision.png"  alt="" align=center />
